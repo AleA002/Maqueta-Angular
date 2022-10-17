@@ -1,0 +1,36 @@
+{
+    "name": "ALESANDRO ATTINELLO",
+    "image": "././hero.png",
+    "position": "Estudiante de Ingeniería en Sistemas de Información",
+    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio ipsum dolorum doloribus exercitationem delectus harum iure, eum quae expedita vel dicta enim aut mollitia aperiam in deserunt cumque! Vitae, laboriosam.",
+    "nacimiento": "24/06/2002",
+    "telefono": "+54 9 3516218305",
+    "mail": "aleattinello1@gmail.com",
+    "vivienda": "Cataluña 2436, Bº Maipu",
+    "educacion":[{
+        "estudio":"Ingeniería en Sistemas de Información", 
+        "establecimiento":"Universidad Tecnológica Nacional", 
+        "fecha": "2021 - Actualidad", 
+        "info": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, cumque repellat, tempora recusandae aliquam nemo esse natus impedit, nostrum temporibus veritatis eaque soluta aperiam id repudiandae fugiat deserunt! Explicabo, veritatis?"
+        },
+        {
+        "estudio":"Secundario", 
+        "establecimiento":"Instituto Jóvenes Argentinos", 
+        "fecha": "2014 - 2019", 
+        "info": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, cumque repellat, tempora recusandae aliquam nemo esse natus impedit, nostrum temporibus veritatis eaque soluta aperiam id repudiandae fugiat deserunt! Explicabo, veritatis?"
+        },
+        {
+        "estudio":"Primario", 
+        "establecimiento":"Instituto Niños Argentinos", 
+        "fecha": "2008 - 2013", 
+        "info": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, cumque repellat, tempora recusandae aliquam nemo esse natus impedit, nostrum temporibus veritatis eaque soluta aperiam id repudiandae fugiat deserunt! Explicabo, veritatis?"
+        }
+    ],
+    "experiencia": [{
+        "cargo":"Empleado",
+        "empresa":"Arcos Dorados Argentina S.A.",
+        "fecha": "2019 - 2021",
+        "info": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, cumque repellat, tempora recusandae aliquam nemo esse natus impedit, nostrum temporibus veritatis eaque soluta aperiam id repudiandae fugiat deserunt! Explicabo, veritatis?"
+    }
+    ]
+}
